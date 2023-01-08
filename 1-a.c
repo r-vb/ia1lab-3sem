@@ -10,7 +10,7 @@ int main()
     printf("Enter value of 'b': ");
     scanf("%d",&b);
     swaping(&a,&b);
-    printf("After Swapping--\n");
+    printf("After Swapping--\n\n");
     printf("Value of 'a' is: %d\n",a);
     printf("Value of 'b' is: %d\n",b);
 return 0;
