@@ -18,7 +18,8 @@ int main()
 return 0;
 }
 
-void swaping(int *pa, int *pb){
+void swaping(int *pa, int *pb)
+{
         int temp;
     temp = *pa;
     *pa = *pb;
